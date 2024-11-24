@@ -1,0 +1,14 @@
+.black-cta,
+.yellow-cta {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.black-cta {
+    background-color: #000000;
+    color: #ffffff
+}
+
+.yellow-cta {
+    background-color: yellow;
+}
